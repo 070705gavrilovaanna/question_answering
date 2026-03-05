@@ -3,6 +3,10 @@
 ## Описание проекта
 Разработка модели для ответа на вопросы по тексту на английском языке. Модель находит ответ в заданном контексте.
 
+## Ссылка на ноутбук
+- [Google Colab](https://colab.research.google.com/drive/1ey3n0AagDjZMbGYUebqic0NElmb_iHTT#scrollTo=oJibym11vQDG)
+- [GitHub](https://github.com/ваш-профиль/ваш-репозиторий)
+
 ## Датасет
 - **SQuAD 1.1** (Stanford Question Answering Dataset) [Ссылка на датасет](https://www.kaggle.com/datasets/stanfordu/stanford-question-answering-dataset?select=train-v1.1.json)
 - Пары вопрос-ответ по статьям Wikipedia
